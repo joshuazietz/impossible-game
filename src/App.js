@@ -4,7 +4,7 @@ import React from "react";
 
 function App() {
   return (
-    <div className="App" style={{marginTop: "5%", minWidth: "800px"}}>
+    <div className="App" style={{marginTop: "5%"}}>
         <Game />
     </div>
   );

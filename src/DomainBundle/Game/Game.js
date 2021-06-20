@@ -58,7 +58,7 @@ export default class Game extends Component
         const totalCards = (new MoveController(this.state)).calculateTotalCards();
         return(
             <div>
-                <div style={{marginLeft: "30%", marginRight: "30%"}}>
+                <div style={{marginLeft: "30%", marginRight: "30%", minWidth: "600px"}}>
                     <Container style={{display: "flex", flexDirection: "row", marginLeft: "3%"}}>
                         <Row style={{width:"25%"}}>
                             <Button style={{backgroundColor: "#8c8c8c", color: "white", padding: "20px"}} onClick={() => this.toggleCardCount()}> <h1> {totalCards} </h1> </Button>
