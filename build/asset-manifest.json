@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/joshuazietz/impossible-game/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/joshuazietz/impossible-game/static/js/main.769efc90.chunk.js",
+    "main.js.map": "/joshuazietz/impossible-game/static/js/main.769efc90.chunk.js.map",
+    "runtime-main.js": "/joshuazietz/impossible-game/static/js/runtime-main.4e9f4a03.js",
+    "runtime-main.js.map": "/joshuazietz/impossible-game/static/js/runtime-main.4e9f4a03.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/joshuazietz/impossible-game/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.11651faf.chunk.js": "/joshuazietz/impossible-game/static/js/2.11651faf.chunk.js",
+    "static/js/2.11651faf.chunk.js.map": "/joshuazietz/impossible-game/static/js/2.11651faf.chunk.js.map",
+    "static/js/3.7a36d4a6.chunk.js": "/joshuazietz/impossible-game/static/js/3.7a36d4a6.chunk.js",
+    "static/js/3.7a36d4a6.chunk.js.map": "/joshuazietz/impossible-game/static/js/3.7a36d4a6.chunk.js.map",
+    "index.html": "/joshuazietz/impossible-game/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/joshuazietz/impossible-game/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/joshuazietz/impossible-game/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.11651faf.chunk.js.LICENSE.txt": "/joshuazietz/impossible-game/static/js/2.11651faf.chunk.js.LICENSE.txt",
+    "static/media/10C.jpg": "/joshuazietz/impossible-game/static/media/10C.354b7b1e.jpg",
+    "static/media/2C.jpg": "/joshuazietz/impossible-game/static/media/2C.066ae686.jpg",
+    "static/media/3D.jpg": "/joshuazietz/impossible-game/static/media/3D.13159968.jpg",
+    "static/media/4H.jpg": "/joshuazietz/impossible-game/static/media/4H.8fccba55.jpg",
+    "static/media/5S.jpg": "/joshuazietz/impossible-game/static/media/5S.8fd39dd7.jpg",
+    "static/media/6C.jpg": "/joshuazietz/impossible-game/static/media/6C.9d135342.jpg",
+    "static/media/7D.jpg": "/joshuazietz/impossible-game/static/media/7D.3d5f6582.jpg",
+    "static/media/8H.jpg": "/joshuazietz/impossible-game/static/media/8H.424248ab.jpg",
+    "static/media/9S.jpg": "/joshuazietz/impossible-game/static/media/9S.70f9f396.jpg",
+    "static/media/AC.jpg": "/joshuazietz/impossible-game/static/media/AC.fd0f054b.jpg",
+    "static/media/JD.jpg": "/joshuazietz/impossible-game/static/media/JD.fea5118a.jpg",
+    "static/media/KS.jpg": "/joshuazietz/impossible-game/static/media/KS.d710f10c.jpg",
+    "static/media/QH.jpg": "/joshuazietz/impossible-game/static/media/QH.87f96511.jpg",
+    "static/media/blue_back.jpg": "/joshuazietz/impossible-game/static/media/blue_back.d9e0d11e.jpg",
+    "static/media/purple_back.jpg": "/joshuazietz/impossible-game/static/media/purple_back.438c2e78.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9f4a03.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.11651faf.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.769efc90.chunk.js"
+  ]
+}
